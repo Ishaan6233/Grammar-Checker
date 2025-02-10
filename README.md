@@ -1,4 +1,4 @@
-This project is a basic grammar checker built using ***Context-Free Grammar (CFG) and constituency parsing**. The grammar checker analyzes the **part-of-speech (POS) tag sequences of sentences** to determine whether they are grammatically **correct or incorrect**. It compares the POS sequence to a set of CFG (toy) rules, and based on whether the sentence can be parsed successfully, the sentence is classified as either **grammatically correct (error-free)** or **incorrect (contains grammar errors)**.
+### This project is a basic grammar checker built using ***Context-Free Grammar (CFG) and constituency parsing**. The grammar checker analyzes the **part-of-speech (POS) tag sequences of sentences** to determine whether they are grammatically **correct or incorrect**. It compares the POS sequence to a set of CFG (toy) rules, and based on whether the sentence can be parsed successfully, the sentence is classified as either **grammatically correct (error-free)** or **incorrect (contains grammar errors)**. ###
 
 ## Requirements ##
 To run this project, make sure the following are installed:
